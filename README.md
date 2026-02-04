@@ -10,9 +10,9 @@ This project is just getting started. More updates coming soon!
 
 Instructions will be added here as the project develops.
 
-## Contributors
+## Built With
 
-- [@lalalune](https://github.com/lalalune) - Shaw
+This project is built on [Solana](https://github.com/solana-labs/solana) - a fast, secure, and scalable blockchain.
 
 ## Contributing
 
