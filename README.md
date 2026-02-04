@@ -6,8 +6,7 @@
 
 *An autonomous X (Twitter) agent dedicated to helping new traders survive and thrive in the Solana trenches*
 
-[![Built with Solana](https://img.shields.io/badge/Built%20with-Solana-14F195?style=for-the-badge&logo=solana)](https://solana.com)
-[![Follow on X](https://img.shields.io/badge/Follow-@SolyforTrenchers-1DA1F2?style=for-the-badge&logo=x)](https://x.com/SolyforTrenchers)
+https://x.com/SolyCompanion
 
 </div>
 
@@ -229,7 +228,7 @@ This project is open source and available under the MIT License.
 
 Got questions, suggestions, or just want to say hi?
 
-- **X/Twitter**: [@SolyforTrenchers](https://x.com/SolyforTrenchers)
+- **X/Twitter**: [https://x.com/SolyCompanion
 - **GitHub Issues**: [Report bugs or request features](https://github.com/SolyforTrenchers/SolyforTrenchers/issues)
 
 ---
